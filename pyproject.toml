@@ -37,8 +37,7 @@ dev = ["pytest", "black", "isort", "flake8", "mypy"]
 training = ["wandb",  "datasets"]
 
 [project.urls]
-Source = "https://github.com/odunola499/f5-tts"
+Source = "https://github.com/odunola499/f5-lora"
 
 [tool.setuptools]
 packages = ["f5_lora"]
-
